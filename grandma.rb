@@ -4,6 +4,8 @@ def speak_to_grandma(phrase)
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
   if phrase != phrase.upcase
+    "HUH?! SPEAK UP, SONNY!"
+  end
 # unless you shout it (type in all capitals).
 
 # If you shout, she can hear you (or at least she thinks so) 
